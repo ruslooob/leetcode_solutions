@@ -1,4 +1,4 @@
-package com.ruslooob.sqrt_x;
+package com.ruslooob.easy.sqrt_x;
 
 class Solution {
     public int mySqrt(int x) {

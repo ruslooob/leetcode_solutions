@@ -1,4 +1,4 @@
-package com.ruslooob.climbing_stairs;
+package com.ruslooob.easy.climbing_stairs;
 
 class Solution {
     public int climbStairs(int n) {

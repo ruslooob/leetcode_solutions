@@ -1,5 +1,6 @@
-package com.ruslooob.sqrt_x;
+package com.ruslooob.easy.sqrt_x;
 
+import com.ruslooob.easy.sqrt_x.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

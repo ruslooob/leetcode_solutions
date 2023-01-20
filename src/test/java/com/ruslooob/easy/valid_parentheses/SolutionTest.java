@@ -1,5 +1,6 @@
-package com.ruslooob.valid_parentheses;
+package com.ruslooob.easy.valid_parentheses;
 
+import com.ruslooob.easy.valid_parentheses.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

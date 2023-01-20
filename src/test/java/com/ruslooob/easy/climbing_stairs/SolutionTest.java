@@ -1,5 +1,6 @@
-package com.ruslooob.climbing_stairs;
+package com.ruslooob.easy.climbing_stairs;
 
+import com.ruslooob.easy.climbing_stairs.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

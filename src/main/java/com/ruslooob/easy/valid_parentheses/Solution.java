@@ -1,4 +1,4 @@
-package com.ruslooob.valid_parentheses;
+package com.ruslooob.easy.valid_parentheses;
 
 import java.util.Stack;
 

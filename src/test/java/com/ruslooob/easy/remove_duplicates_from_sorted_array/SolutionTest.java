@@ -1,8 +1,7 @@
-package com.ruslooob.remove_duplicates_from_sorted_array;
+package com.ruslooob.easy.remove_duplicates_from_sorted_array;
 
+import com.ruslooob.easy.remove_duplicates_from_sorted_array.Solution;
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 

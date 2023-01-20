@@ -1,4 +1,4 @@
-package com.ruslooob.remove_duplicates_from_sorted_array;
+package com.ruslooob.easy.remove_duplicates_from_sorted_array;
 
 import java.util.Arrays;
 

@@ -1,5 +1,6 @@
-package com.ruslooob.longest_common_prefix;
+package com.ruslooob.easy.longest_common_prefix;
 
+import com.ruslooob.easy.longest_common_prefix.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,5 +1,6 @@
-package com.ruslooob.length_of_last_word;
+package com.ruslooob.easy.length_of_last_word;
 
+import com.ruslooob.easy.length_of_last_word.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

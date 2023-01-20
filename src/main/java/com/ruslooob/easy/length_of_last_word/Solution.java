@@ -1,4 +1,4 @@
-package com.ruslooob.length_of_last_word;
+package com.ruslooob.easy.length_of_last_word;
 
 class Solution {
     public int lengthOfLastWord(String s) {

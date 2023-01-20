@@ -1,4 +1,4 @@
-package com.ruslooob.longest_common_prefix;
+package com.ruslooob.easy.longest_common_prefix;
 
 public class Solution {
 
