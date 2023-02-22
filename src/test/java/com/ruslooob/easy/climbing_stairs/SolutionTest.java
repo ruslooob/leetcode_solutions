@@ -1,9 +1,8 @@
 package com.ruslooob.easy.climbing_stairs;
 
-import com.ruslooob.easy.climbing_stairs.Solution;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     Solution solution = new Solution();
@@ -18,9 +17,42 @@ class SolutionTest {
         assertEquals(3, solution.climbStairs(3));
     }
 
+    /*
+     * 3 ->
+     * 1 1 1
+     * 1 2
+     * 2 1
+     * */
+
+    /*
+    4 ->
+    * 1 1 1 1
+    * 2 2
+    * 2 1 1
+    * 1 1 2
+    * 1 2 1
+    * */
+
+    /*
+     * 5->
+     * 1 1 1 1 1
+     * 2 2 1
+     * 1 2 2
+     * 2 2 1
+     * 1 1 2 1
+     * 2 1 1 1
+     * 1 2 1 1
+     * 1 1 1 2
+     * */
     @Test
     void climbStairs2() {
-        assertEquals(4, solution.climbStairs(5));
+        assertEquals(5, solution.climbStairs(4));
+    }
+
+    /*1 -> 1 2 -> 2 3 -> 3 4 -> 5 5 -> 8 6 -> 13 */
+    @Test
+    void climbStairs3() {
+        assertEquals(13, solution.climbStairs(6));
     }
 
 }
